@@ -1,0 +1,4 @@
+https://rpubs.com/Eugegonz/519666
+https://dominicroye.github.io/en/2018/accessing-openstreetmap-data-with-r/
+https://rstudio-pubs-static.s3.amazonaws.com/571511_3b48facd6dd04f3da69f374ad79f19f1.html
+https://wiki.openstreetmap.org/wiki/Map_features
